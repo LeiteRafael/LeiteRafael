@@ -22,6 +22,6 @@ Estudante de Ciência da computação. Backend Developer(Nodejs e Java), com exp
 
 ### :file_folder: Repositório 
 > Projetos pessoais para aprender/desenvolver novas tecnologias 
-<a href="https://github.com/LeiteRafael?tab=repositories">LeiteRafael</a>
+<a href="https://github.com/LeiteRafael/repository-menu">Menu</a>
 
 ---
